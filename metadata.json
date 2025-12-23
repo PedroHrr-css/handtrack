@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Hand Observer",
+  "description": "Real-time hand gesture recognition using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
